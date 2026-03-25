@@ -3,8 +3,8 @@ class Awspss < Formula
 
   desc "AWS Identity Center Permission Sets Switcher"
   homepage "https://github.com/boseung-code/awspss"
-  url "https://files.pythonhosted.org/packages/source/a/awspss/awspss-0.2.0.tar.gz"
-  sha256 "8d02ed55de43ee55c4942d11ec498e4d386896280489fe6b9abc52ee1395b71b"
+  url "https://files.pythonhosted.org/packages/source/a/awspss/awspss-0.3.0.tar.gz"
+  sha256 "c2dde64ef1b092e54d5b98695ceade652cacbc0dfffcec9d01e8609d84d6a1fa"
   license "MIT"
 
   depends_on "python@3.12"
