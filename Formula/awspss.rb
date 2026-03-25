@@ -2,7 +2,7 @@ class Awspss < Formula
   include Language::Python::Virtualenv
 
   desc "AWS Identity Center Permission Sets Switcher"
-  homepage "https://github.com/boseung-code/awsps"
+  homepage "https://github.com/boseung-code/awspss"
   url "https://files.pythonhosted.org/packages/source/a/awspss/awspss-0.1.0.tar.gz"
   sha256 ""
   license "MIT"
